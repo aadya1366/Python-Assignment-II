@@ -1,0 +1,8 @@
+Program:
+c=0
+for i in range(1,51):
+  c=int(c+i)
+print('The sum of numbers from 1 to 50 is: ',c)
+
+Output:
+The sum of numbers from 1 to 50 is:  1275
